@@ -1,0 +1,16 @@
+* {
+   margin: 0;
+   padding: 0;
+}
+body {
+   font-family: "Raleway", sans-serif;
+}
+.selected {
+   background-color: #1dd100;
+   color: white;
+}
+.disabled {
+   color: #ccc;
+   cursor: not-allowed;
+   opacity: 0.5;
+}
